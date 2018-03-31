@@ -3,7 +3,7 @@
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26"></tspan>
 
-<tspan x="10" y="42">&gt; swgg-github-orgs@2018.1.16 postinstall /tmp/app/node_modules/swgg-github-orgs</tspan>
+<tspan x="10" y="42">&gt; swgg-github-orgs@2018.3.31 postinstall /tmp/app/node_modules/swgg-github-orgs</tspan>
 
 <tspan x="10" y="58">&gt; [ ! -f npm_scripts.sh ] || ./npm_scripts.sh shNpmScriptPostinstall</tspan>
 
@@ -11,8 +11,8 @@
 
 <tspan x="10" y="90">/tmp/app</tspan>
 
-<tspan x="10" y="106">└── swgg-github-orgs@2018.1.16  (git://github.com/kaizhu256/node-swgg-github-orgs.git#77b72c234e\</tspan>
-<tspan x="10" y="122">88b74aaf1d51945c713511e4db97e8)</tspan>
+<tspan x="10" y="106">└── swgg-github-orgs@2018.3.31  (git://github.com/kaizhu256/node-swgg-github-orgs.git#50c632e7cb\</tspan>
+<tspan x="10" y="122">0e9b96ef0cf97167a7d6ba1bbfdd57)</tspan>
 
 <tspan x="10" y="138"></tspan>
 
